@@ -41,3 +41,6 @@ What it does:
 
 Python 3.10 with cobrapy, numpy, pandas, matplotlib and a solver (Gurobi or GLPK). Escher is only needed to
 edit the maps, not to run the analysis.
+
+## Citation 
+... to be added
