@@ -1,2 +1,4 @@
 2_notebooks/working/
 **.pptx
+1_data/*
+!1_data/iMS837.json
